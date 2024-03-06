@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 📫 How to reach me **janmejaysingh331gmail.com**
+- 📫 How to reach me **janmejaysingh331@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1oonrY0CH0xADj4N7Xtpz0X8z_2TsQzLs/view?usp=sharing](https://drive.google.com/file/d/1oonrY0CH0xADj4N7Xtpz0X8z_2TsQzLs/view?usp=sharing)
 
